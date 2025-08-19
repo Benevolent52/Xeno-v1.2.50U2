@@ -1,0 +1,15 @@
+[2025-08-19 12:00:44.905] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2025-08-19 12:00:44.905] [Xeno] [info] Version: Xeno - v1.2.50
+[2025-08-19 12:00:44.905] [Xeno] [info] Logs stored in C:\Users\ƒŒ¡–Œ∆≈À¿“≈À‹ÕŒ—“‹\Desktop\Xeno-v1.2.50U2\logs\2025-08-19_12-00-44.log
+[2025-08-19 12:00:44.907] [Xeno] [debug] Client Checker thread: 0x30a017d890
+[2025-08-19 12:00:44.908] [Xeno] [debug] Xeno Caching thread: 0x30a017d880
+[2025-08-19 12:00:44.908] [Cache] [error] Xeno directory missing: "C:\Xeno"
+[2025-08-19 12:00:44.908] [Xeno] [debug] WebSockets Cleaner thread: 0x30a017d870
+[2025-08-19 12:00:44.909] [Xeno] [debug] Xeno Server thread: 0x30a017d860
+[2025-08-19 12:00:44.909] [Cache] [info] Directory "C:\Xeno" was created. Restart Xeno if problem persists
+[2025-08-19 12:00:44.909] [Cache] [info] File: C:\Xeno\XENO_CACHE.bin
+[2025-08-19 12:00:44.909] [Cache] [debug] No cache file found at C:\Xeno\XENO_CACHE.bin
+[2025-08-19 12:00:44.909] [Cache] [warning] No valid cache found (Starting new fresh cache)
+[2025-08-19 12:00:44.909] [Cache] [info] Inviting you to our official Discord server :D https://discord.gg/xe-no
+[2025-08-19 12:00:44.911] [Server] [info] Listening on http://localhost:3110
+[2025-08-19 12:00:44.926] [DiscordRPC] [info] RPC is Enabled
